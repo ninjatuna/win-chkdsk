@@ -1,0 +1,2 @@
+chkdsk
+cmd /k
